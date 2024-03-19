@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Dữ liệu"
+        android:id="@+id/menuLog"
+        />
+    <item android:id="@+id/menuRFID"
+        android:title="RFID"/>
+    <item android:id="@+id/menuTemporaryPassword"
+        android:title="Temporary Password"/>
+    <item android:id="@+id/menuDangXuat"
+        android:title="Đăng xuất"/>
+</menu>
